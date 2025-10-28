@@ -43,5 +43,6 @@ def init_mcp():
 
 if __name__ == "__main__":
     mcp = init_mcp()
-    mcp.run()
+    #mcp.run()
+    mcp.run(transport="sse") # creates web service that can accept http rewuests
 
