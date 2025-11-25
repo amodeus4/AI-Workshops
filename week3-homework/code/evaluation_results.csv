@@ -1,0 +1,2 @@
+Log ID,User Prompt,Agent Answer,Timestamp,instructions_follow,answer_relevant,answer_clear,answer_citations,completeness,tool_call_search,Overall Score,Feedback Rating,Comments
+1,where do capybaras live?,Capybaras (Hydrochoerus hydrochaeris) are native to South America and are typically found in a varie...,2025-11-25 15:47:29,−,✗,✓,✓,✓,✗,3/6,,
