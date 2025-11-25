@@ -1,0 +1,16 @@
+{
+  "session_start": "2025-11-25T15:47:29.726646",
+  "session_end": "2025-11-25T15:47:34.141125",
+  "interactions": [
+    {
+      "timestamp": "2025-11-25T15:47:29.777298",
+      "type": "query",
+      "content": "where do capybaras live?"
+    },
+    {
+      "timestamp": "2025-11-25T15:47:34.140093",
+      "type": "response",
+      "content": "Capybaras (Hydrochoerus hydrochaeris) are native to South America and are typically found in a variety of habitats, primarily near water sources. They inhabit regions such as grasslands, savannas, and tropical rainforests. Capybaras are highly adaptable animals and are commonly found in low-lying areas around rivers, lakes, ponds, and marshes.\n\nTheir range includes several countries in South America, most notably Brazil, Venezuela, Colombia, Argentina, and Paraguay. Because they are semi-aquatic, they rely on water for their survival and are often seen swimming or submerged to evade predators.\n\nReferences:\n- Capybara - https://en.wikipedia.org/wiki/Capybara\n- Hydrochoerinae - https://en.wikipedia.org/wiki/Hydrochoerinae"
+    }
+  ]
+}

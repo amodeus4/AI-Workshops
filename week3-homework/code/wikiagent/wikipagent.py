@@ -41,11 +41,10 @@ Important rules:
         )
 
     async def answer(self, query: str) -> dict:
-        self.fetched_pages.clear()
         response = await self.agent.run(
             user_prompt=query
         )
         return {
             "summary": response,
-            "pages": self.fetched_pages
+            "pages": {}
         }
